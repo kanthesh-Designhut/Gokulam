@@ -1,0 +1,60 @@
+@media (max-width: 767.9px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+    .Carousel-Header {
+        font-size: 1rem !important;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+  transform: translateX(0);
+}
+
+.img-fluid {
+    height: 200px !important;
+    width: 100% !important;
+}
+
+.img-fluid img{
+    width: 100% !important;
+}
+
+.card span {
+    display: block;
+    padding: .5rem;
+}
+
+.btn {
+    background-color: var(--color-main) !important;
+    border-radius: 0 !important;
+    font-size: .8rem !important;  
+}
+
+.btn:hover {
+    background-color: var(--color-primary) !important;
+    color: var(--color-main) !important;
+}
+
+.Left-icon, .Right-icon{
+    color: var(--color-main) !important;
+    font-size: var(--font-sizfour) !important;
+}
+
+
+.Carousel-Header {
+    color: var(--color-main);
+    text-align: left;
+    font-size: 2vw;
+}
