@@ -1,0 +1,2 @@
+# Gokulam
+Gokulam is a real-estate project where any user can buy or sell the property. The user can even contact the person owning the property and make a deal on the properties. There is a separate section for newly constructed buildings that can be purchased and also there is the availability of the plots where the user can buy the plot. Also, the project consists of a separate section for parks where a few parks like swimming pools, parks for children, parks for walking and jogging, etc.
